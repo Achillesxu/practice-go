@@ -1,5 +1,5 @@
 ## Go coding exercises and elegant solutions
-
+1
 ### How to solve
 
  - Each challenge(folder) has a README.md file and `*_test.go` file, check it and find what kind of function you need to implement.
